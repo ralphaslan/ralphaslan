@@ -1,4 +1,4 @@
-<h1 align="left">Hello there 👋 What's up?</h1>
+<h1 align="left">Hello world 👋 What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Creating bugs since 2019 🐞<br><br>📚 I'm currently learning AI agents for web scraping<br><br>🎯 Goal is to gather the data, secure the data and use to solve problems<br><br>🎲 Fun fact: I also do extreme sports got addicted to adrenaline and the stress is my dessert</p>
+<p align="left">Creating bugs since 2019 🐞<br><br>📚 I'm currently learning AI agents for web scraping<br><br>🎯 Goal is to gather the data, secure the data and use to solve problems<br><br>🎲 Fun fact: I also do extreme sports, I got addicted to adrenaline and the stress is my dessert</p>
 
 ###
 
