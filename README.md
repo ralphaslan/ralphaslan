@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">Creating bugs since 2019 🐞<br><br>📚 Currently, I am focused to grow on cloud
- platforms such as AWS, GCP<br><br>🎯 Goal is to gather the data, secure the data and use to solve problems<br><br>🎲 Fun fact: I also do extreme sports, I got addicted to adrenaline and the stress is my dessert</p>
+<p align="left">Creating bugs since 2019 🐞<br><br>📚 Currently, I am focused to grow on GCP and C as a programing language<br><br>🎯 Goal is to gather the data, secure the data and use to solve problems<br><br>🎲 Fun fact: I also do extreme sports, I got addicted to adrenaline and the stress is my dessert</p>
 
 ###
 
